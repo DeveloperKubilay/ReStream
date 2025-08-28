@@ -1,0 +1,9 @@
+[
+    {
+        "port": 1233,
+        "url": "rtmp://localhost:{port}/live/ascc-ascb-ascc-asf",
+        "outputs": [
+            "rtmp://a.rtmp.youtube.com/live2/test"
+        ]
+    }
+]
