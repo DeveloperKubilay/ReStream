@@ -1,5 +1,7 @@
 # Restream 🚀
 
+![Restream Logo](https://raw.githubusercontent.com/DeveloperKubilay/ReStream/refs/heads/main/image.png)
+
 A Python script to restream RTMP streams to multiple outputs using FFmpeg. Perfect for broadcasting to YouTube, Twitch, etc. simultaneously.
 
 ## Requirements 📋
